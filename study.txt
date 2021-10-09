@@ -2,6 +2,8 @@ https://www.cnblogs.com/xuewangkai/p/11158576.html
 
 https://blog.csdn.net/Outtch_/article/details/105276364  //孤儿进程 守护进程
 
+https://blog.csdn.net/amf12345/article/details/104761109  python   utf-8
+https://www.cnblogs.com/cooper-73/p/9921180.html  python 爬虫乱码问题
 
 https://www.cnblogs.com/zxiner/p/6919021.html         libevent学习
 https://blog.csdn.net/pengshengli/article/details/93657384   libevent  安装
@@ -23,4 +25,9 @@ https://qtguide.ustclug.org/    QT编程指南
 https://cxuan.blog.csdn.net/article/details/109254976?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control  //学习目录
 
 https://my.oschina.net/fileoptions/blog/911091  select
+
+https://blog.csdn.net/sdulibh/article/details/47292761  makefile
+
+
+https://zhuanlan.zhihu.com/p/400645616  //全
 
