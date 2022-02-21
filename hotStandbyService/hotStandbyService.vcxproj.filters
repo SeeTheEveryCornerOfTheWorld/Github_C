@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{8b6abf1b-b3bb-4be6-b54d-27c8f84849d5}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{147e56cb-7fae-415b-820f-2ddfaa4e4ce1}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource files">
+      <UniqueIdentifier>{e34112f6-8d7f-42ac-a27e-b2ef42dcee71}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="VisualGDB settings">
+      <UniqueIdentifier>{afd67f09-9ab1-4287-8171-31cacb8382d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Make files">
+      <UniqueIdentifier>{a01fddd6-5249-4c92-9a47-97447775d074}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hotStandbyService.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <None Include="debug.mak">
+      <Filter>Source files\Make files</Filter>
+    </None>
+    <None Include="release.mak">
+      <Filter>Source files\Make files</Filter>
+    </None>
+    <None Include="hotStandbyService-Debug.vgdbsettings">
+      <Filter>VisualGDB settings</Filter>
+    </None>
+    <None Include="hotStandbyService-Release.vgdbsettings">
+      <Filter>VisualGDB settings</Filter>
+    </None>
+    <ClCompile Include="log.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="commonFunc.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="configoption.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="socketimpl.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="libnetlink.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="ipaddr.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="mysqlImpl.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="pingImpl.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Makefile" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="log.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="commonHead.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="commonFunc.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="commonDefine.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="ha_vrrp.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="configoption.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="socketimpl.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="ipaddr.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="libnetlink.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="mysqlImpl.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
